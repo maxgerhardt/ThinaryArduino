@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduino-megaavr-thinary",
+  "version": "1.0.0",
+  "description": "Arduino Wiring-based Framework for Microchip megaAVR microcontrollers (Thinary Nano Every)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "megaavr"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thinary/ThinaryArduino"
+  }
+}
